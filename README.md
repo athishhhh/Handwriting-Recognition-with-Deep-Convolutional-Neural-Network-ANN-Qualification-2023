@@ -13,3 +13,8 @@ The MNIST dataset has 10 classes, each representing a digit from 0 to 9. The goa
 3. Based on your analysis, what kind of data can be chosen as a target? Why do you use it as the target?
 
 The target data that can be chosen for the MNIST dataset is the class label of each digit image. This is because the goal of the MNIST dataset is to perform image classification of digits, making the class label a suitable target to measure the accuracy of the classification model. The class label has discrete values from 0 to 9, representing the digit shown in the image, making it possible to perform multi-class classification using machine learning or deep learning models. Additionally, the class labels are already provided in the MNIST dataset, so there is no need to perform label encoding or manual target label creation.
+
+
+<h3>How does the Deep Convolutional Neural Network (DCNN) architecture work?</h3>
+
+<img src="https://github.com/skyradez/MNISTWIthDCNN-ANN-Qualification-2023-/blob/main/dcnn.png" />
