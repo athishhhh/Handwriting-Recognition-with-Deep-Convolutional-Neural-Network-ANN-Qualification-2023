@@ -1,4 +1,4 @@
-# MNIST Dataset with Deep Convolutional Neural Network (DCNN)
+# Handwriting Recognition with Deep Convolutional Neural Network (DCNN)
 
 1. What kind of architecture do you use and describe your reason(s) for choosing the architecture?
 
