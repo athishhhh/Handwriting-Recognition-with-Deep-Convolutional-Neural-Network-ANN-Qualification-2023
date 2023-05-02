@@ -18,3 +18,6 @@ The target data that can be chosen for the MNIST dataset is the class label of e
 <h3>How does the Deep Convolutional Neural Network (DCNN) architecture work?</h3>
 
 <img src="https://github.com/skyradez/MNISTWIthDCNN-ANN-Qualification-2023-/blob/main/dcnn.png" />
+
+# Result:
+<img src="https://github.com/skyradez/Handwriting-Recognition-with-Deep-Convolutional-Neural-Network-ANN-Qualification-2023/blob/main/Model%20Performance.png" />
