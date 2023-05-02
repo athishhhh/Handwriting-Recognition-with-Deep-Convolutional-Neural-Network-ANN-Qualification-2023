@@ -41,7 +41,7 @@ n_input = 784
 n_classes = 10 
 dropout = 0.75 
 
-x = tf.compat.v1.placeholder(tf.float32, [None, n_input])
+x = tf.placeholder(tf.float32, [None, n_input])
 y = tf.placeholder(tf.float32, [None, n_classes])
 keep_prob = tf.placeholder(tf.float32) 
 
